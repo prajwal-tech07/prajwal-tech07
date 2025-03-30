@@ -1,4 +1,4 @@
-##This is Prajwal Hawaldar👋
+This is Prajwal Hawaldar👋
 Data Scientist | Machine Learning Engineer | AI Enthusiast
 
 
