@@ -17,4 +17,4 @@ Data Scientist | Machine Learning Engineer | AI Enthusiast
    -->"90% of Data Science is cleaning data, 10% is complaining about cleaning data!" 😂
   ### GitHub Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prajwal-tech07&theme=radical) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prajwal-tech07&theme=default) 
