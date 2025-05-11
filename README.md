@@ -14,4 +14,7 @@ Data Scientist | Machine Learning Engineer | AI Enthusiast
    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its_prajwal_100412)  
 
 - ⚡ Fun fact:
-   -->"90% of Data Science is cleaning data, 10% is complaining about cleaning data!" 😂  
+   -->"90% of Data Science is cleaning data, 10% is complaining about cleaning data!" 😂
+  ### GitHub Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prajwal-tech07&theme=radical) 
