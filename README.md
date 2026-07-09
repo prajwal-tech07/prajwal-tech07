@@ -188,7 +188,7 @@ graph construction for neural weather prediction models used in real forecasting
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=prajwal-tech07&theme=tokyonight&hide_border=true" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwal-tech07&theme=tokyonight" />
 </div>
 
 ---
