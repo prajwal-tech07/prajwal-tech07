@@ -13,9 +13,11 @@
 
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
 ## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td width="62%" valign="top">
 
 - 🌦️ **Google Summer of Code 2026 contributor @ [MLLAM](https://github.com/mllam)** — building flexible graph construction for AI weather models
 - 🔭 Working at the intersection of **Graph Neural Networks, PyTorch & scientific computing**
@@ -24,7 +26,14 @@
 - 💬 Ask me about **GNNs, PyTorch, ML-based weather prediction & Data Science**
 - ⚡ Fun fact: *"90% of Data Science is cleaning data, 10% is complaining about it"* 😄
 
-<br clear="right"/>
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -73,6 +82,43 @@ Layer 4+ 🌟  Graph quality metrics, density-adaptive meshes, spherical coordin
 ```
 
 *Why it matters: ML-based weather forecasting is becoming operational at national weather services. Flexible mesh construction lets scientists match the graph to the physics — finer resolution where the weather is complex — rather than the other way around.*
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| | Achievement | Year |
+|:---:|:---|:---:|
+| 🌦️ | **Google Summer of Code Contributor** — [MLLAM](https://github.com/mllam) · Flexible Graph Construction for neural weather models (350h project) | 2026 |
+| 📚 | **Amazon ML Summer School** — Shortlisted (Amazon India) | 2026 |
+| 🦈 | **GitHub Pull Shark & Pair Extraordinaire** — earned through merged PRs and collaborative work | — |
+| 🧩 | **Competitive programming** on [LeetCode](https://leetcode.com/u/prazziii/) | — |
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/mllam/weather-model-graphs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mllam&repo=weather-model-graphs&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/mllam/neural-lam">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mllam&repo=neural-lam&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/prajwal-tech07/virtual_mouse_project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwal-tech07&repo=virtual_mouse_project&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/prajwal-tech07/smart_content_creator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwal-tech07&repo=smart_content_creator&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
@@ -139,6 +185,12 @@ graph construction for neural weather prediction models used in real forecasting
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prajwal-tech07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+</div>
+
+<br/>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajwal-tech07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
