@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://summerofcode.withgoogle.com/"><img src="https://img.shields.io/badge/GSoC%202026-Contributor-fbbc05?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a href="https://summerofcode.withgoogle.com/programs/2026/projects/1GFUKY85"><img src="https://img.shields.io/badge/GSoC%202026-Contributor-fbbc05?style=for-the-badge&logo=google&logoColor=white" /></a>
   <a href="mailto:prajwalhawaldar2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/prajwal-hawaldar-190197279"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/pr51283"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -40,7 +40,7 @@
 ## 🌦️ Google Summer of Code 2026 — MLLAM
 
 <div align="center">
-  <a href="https://summerofcode.withgoogle.com/">
+  <a href="https://summerofcode.withgoogle.com/programs/2026/projects/1GFUKY85">
     <img src="https://img.shields.io/badge/Google%20Summer%20of%20Code-2026-fbbc05?style=for-the-badge&logo=google&logoColor=white" />
   </a>
   <a href="https://github.com/mllam">
@@ -56,6 +56,8 @@
 > [MLLAM](https://github.com/mllam) (Machine Learning for Limited Area Models) is an open-source collaboration of meteorological institutes and researchers building **data-driven regional weather forecasting** — GraphCast-style GNN models that run the encode → process → decode cycle over mesh graphs.
 >
 > My project makes mesh-graph construction **topology-agnostic** across the MLLAM stack, so researchers can swap rectangular, triangular (Delaunay), or fully custom meshes into the same forecasting pipeline — instead of being locked into one hardcoded grid.
+
+**🔗 Official project page:** [summerofcode.withgoogle.com → Flexible Graph Construction](https://summerofcode.withgoogle.com/programs/2026/projects/1GFUKY85)
 
 **🧑‍🏫 Mentors:** [Leif Denby](https://github.com/leifdenby) · [Hauke Schulz](https://github.com/observingClouds) · [Joel Oskarsson](https://github.com/joeloskarsson)
 
@@ -102,7 +104,7 @@ Layer 4+ 🌟  Graph quality metrics, density-adaptive meshes, spherical coordin
 
 | | Achievement | Year |
 |:---:|:---|:---:|
-| 🌦️ | **Google Summer of Code Contributor** — [MLLAM](https://github.com/mllam) · Flexible Graph Construction for neural weather models (350h project) | 2026 |
+| 🌦️ | **[Google Summer of Code Contributor](https://summerofcode.withgoogle.com/programs/2026/projects/1GFUKY85)** — [MLLAM](https://github.com/mllam) · Flexible Graph Construction for neural weather models (350h project) | 2026 |
 | 📚 | **Amazon ML Summer School** — Shortlisted (Amazon India) | 2026 |
 | 🦈 | **GitHub Pull Shark & Pair Extraordinaire** — earned through merged PRs and collaborative work | — |
 | 🧩 | **Competitive programming** on [LeetCode](https://leetcode.com/u/prazziii/) | — |
