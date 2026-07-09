@@ -59,7 +59,18 @@
 
 **🧑‍🏫 Mentors:** [Leif Denby](https://github.com/leifdenby) · [Hauke Schulz](https://github.com/observingClouds) · [Joel Oskarsson](https://github.com/joeloskarsson)
 
-**📦 Repositories I work on:** [`weather-model-graphs`](https://github.com/mllam/weather-model-graphs) (graph construction library) · [`neural-lam`](https://github.com/mllam/neural-lam) (graph-based neural weather model)
+### 📦 Repositories I work on
+
+<div align="center">
+
+<a href="https://github.com/mllam/weather-model-graphs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mllam&repo=weather-model-graphs&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/mllam/neural-lam">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mllam&repo=neural-lam&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+
+</div>
 
 ### 🚀 Contributions
 
@@ -95,28 +106,6 @@ Layer 4+ 🌟  Graph quality metrics, density-adaptive meshes, spherical coordin
 | 📚 | **Amazon ML Summer School** — Shortlisted (Amazon India) | 2026 |
 | 🦈 | **GitHub Pull Shark & Pair Extraordinaire** — earned through merged PRs and collaborative work | — |
 | 🧩 | **Competitive programming** on [LeetCode](https://leetcode.com/u/prazziii/) | — |
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/mllam/weather-model-graphs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mllam&repo=weather-model-graphs&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/mllam/neural-lam">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mllam&repo=neural-lam&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/prajwal-tech07/virtual_mouse_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwal-tech07&repo=virtual_mouse_project&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/prajwal-tech07/smart_content_creator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwal-tech07&repo=smart_content_creator&theme=tokyonight&hide_border=true" />
-</a>
 
 </div>
 
