@@ -19,7 +19,7 @@
 <tr>
 <td width="62%" valign="top">
 
-- 🌦️ **Google Summer of Code 2026 contributor @ [MLLAM](https://github.com/mllam)** — building flexible graph construction for AI weather models
+- 🌦️ **Google Summer of Code 2026 contributor @ [MLLAM](https://github.com/mllam)** - building flexible graph construction for AI weather models
 - 🔭 Working at the intersection of **Graph Neural Networks, PyTorch & scientific computing**
 - 🌱 Learning **Advanced Deep Learning, LLMs & Transformers**
 - 🤝 Open to collaborating on **ML, Data Science & Open Source projects**
@@ -37,7 +37,7 @@
 
 ---
 
-## 🌦️ Google Summer of Code 2026 — MLLAM
+## 🌦️ Google Summer of Code 2026 - MLLAM
 
 <div align="center">
   <a href="https://summerofcode.withgoogle.com/programs/2026/projects/1GFUKY85">
@@ -53,9 +53,9 @@
 
 > **Project: Flexible Graph Construction for Neural Weather Models**
 >
-> [MLLAM](https://github.com/mllam) (Machine Learning for Limited Area Models) is an open-source collaboration of meteorological institutes and researchers building **data-driven regional weather forecasting** — GraphCast-style GNN models that run the encode → process → decode cycle over mesh graphs.
+> [MLLAM](https://github.com/mllam) (Machine Learning for Limited Area Models) is an open-source collaboration of meteorological institutes and researchers building **data-driven regional weather forecasting** - GraphCast-style GNN models that run the encode → process → decode cycle over mesh graphs.
 >
-> My project makes mesh-graph construction **topology-agnostic** across the MLLAM stack, so researchers can swap rectangular, triangular (Delaunay), or fully custom meshes into the same forecasting pipeline — instead of being locked into one hardcoded grid.
+> My project makes mesh-graph construction **topology-agnostic** across the MLLAM stack, so researchers can swap rectangular, triangular (Delaunay), or fully custom meshes into the same forecasting pipeline - instead of being locked into one hardcoded grid.
 
 **🔗 Official project page:** [summerofcode.withgoogle.com → Flexible Graph Construction](https://summerofcode.withgoogle.com/programs/2026/projects/1GFUKY85)
 
@@ -66,11 +66,14 @@
 <div align="center">
 
 <a href="https://github.com/mllam/weather-model-graphs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mllam&repo=weather-model-graphs&theme=tokyonight&hide_border=true&description_lines_count=2" />
+  <img src="https://img.shields.io/github/stars/mllam/weather-model-graphs?style=for-the-badge&logo=github&label=mllam%2Fweather-model-graphs&color=2b6cb0" />
 </a>
+&nbsp;
 <a href="https://github.com/mllam/neural-lam">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mllam&repo=neural-lam&theme=tokyonight&hide_border=true&description_lines_count=2" />
+  <img src="https://img.shields.io/github/stars/mllam/neural-lam?style=for-the-badge&logo=github&label=mllam%2Fneural-lam&color=2b6cb0" />
 </a>
+
+*[`weather-model-graphs`](https://github.com/mllam/weather-model-graphs) - graph construction library · [`neural-lam`](https://github.com/mllam/neural-lam) - graph-based neural weather model*
 
 </div>
 
@@ -78,23 +81,23 @@
 
 | Contribution | Repo | Status |
 |---|---|---|
-| [**#81**](https://github.com/mllam/weather-model-graphs/pull/81) — Two-step `mesh_layout` architecture separating mesh **coordinate creation** from **connectivity** — the foundation for all alternative mesh topologies | `weather-model-graphs` | ✅ **Merged** |
-| [**#92**](https://github.com/mllam/weather-model-graphs/pull/92) — **Triangular (Delaunay) multi-range meshes** as the first alternative topology, built on the new layout architecture | `weather-model-graphs` | 🔄 In review |
-| [**#123**](https://github.com/mllam/weather-model-graphs/pull/123) — `to_torch_tensors_on_disk`: standardized **on-disk graph serialization** so any WMG graph loads directly into neural-lam | `weather-model-graphs` | 🔄 In review |
-| [**#596**](https://github.com/mllam/neural-lam/pull/596) — `create_graph_with_wmg` **bridge CLI**, replacing 600+ lines of duplicated graph-construction code in neural-lam with the shared WMG library | `neural-lam` | 🔄 In review |
-| [**#79**](https://github.com/mllam/weather-model-graphs/issues/79) — **Prebuilt / bring-your-own mesh layouts**: design for injecting externally-generated meshes (e.g. from existing NWP model grids) | `weather-model-graphs` | 🧩 Design agreed with maintainers |
-| [**#144**](https://github.com/mllam/weather-model-graphs/issues/144) — **CI benchmark regression detection** for graph-construction performance | `weather-model-graphs` | 🧩 Proposal accepted |
+| [**#81**](https://github.com/mllam/weather-model-graphs/pull/81) - Two-step `mesh_layout` architecture separating mesh **coordinate creation** from **connectivity** - the foundation for all alternative mesh topologies | `weather-model-graphs` | ✅ **Merged** |
+| [**#92**](https://github.com/mllam/weather-model-graphs/pull/92) - **Triangular (Delaunay) multi-range meshes** as the first alternative topology, built on the new layout architecture | `weather-model-graphs` | 🔄 In review |
+| [**#123**](https://github.com/mllam/weather-model-graphs/pull/123) - `to_torch_tensors_on_disk`: standardized **on-disk graph serialization** so any WMG graph loads directly into neural-lam | `weather-model-graphs` | 🔄 In review |
+| [**#596**](https://github.com/mllam/neural-lam/pull/596) - `create_graph_with_wmg` **bridge CLI**, replacing 600+ lines of duplicated graph-construction code in neural-lam with the shared WMG library | `neural-lam` | 🔄 In review |
+| [**#79**](https://github.com/mllam/weather-model-graphs/issues/79) - **Prebuilt / bring-your-own mesh layouts**: design for injecting externally-generated meshes (e.g. from existing NWP model grids) | `weather-model-graphs` | 🧩 Design agreed with maintainers |
+| [**#144**](https://github.com/mllam/weather-model-graphs/issues/144) - **CI benchmark regression detection** for graph-construction performance | `weather-model-graphs` | 🧩 Proposal accepted |
 
 ### 🗺️ Roadmap
 
 ```
-Layer 1  ✅  Mesh layout architecture — rectangular + triangular (Delaunay) topologies
+Layer 1  ✅  Mesh layout architecture - rectangular + triangular (Delaunay) topologies
 Layer 2  🔄  Bridge: one shared graph pipeline + on-disk format between WMG and neural-lam
 Layer 3  🔜  Migrate neural-lam's internal graph representation to PyG HeteroData
 Layer 4+ 🌟  Graph quality metrics, density-adaptive meshes, spherical coordinates
 ```
 
-*Why it matters: ML-based weather forecasting is becoming operational at national weather services. Flexible mesh construction lets scientists match the graph to the physics — finer resolution where the weather is complex — rather than the other way around.*
+*Why it matters: ML-based weather forecasting is becoming operational at national weather services. Flexible mesh construction lets scientists match the graph to the physics - finer resolution where the weather is complex - rather than the other way around.*
 
 ---
 
@@ -104,10 +107,10 @@ Layer 4+ 🌟  Graph quality metrics, density-adaptive meshes, spherical coordin
 
 | | Achievement | Year |
 |:---:|:---|:---:|
-| 🌦️ | **[Google Summer of Code Contributor](https://summerofcode.withgoogle.com/programs/2026/projects/1GFUKY85)** — [MLLAM](https://github.com/mllam) · Flexible Graph Construction for neural weather models (350h project) | 2026 |
-| 📚 | **Amazon ML Summer School** — Shortlisted (Amazon India) | 2026 |
-| 🦈 | **GitHub Pull Shark & Pair Extraordinaire** — earned through merged PRs and collaborative work | — |
-| 🧩 | **Competitive programming** on [LeetCode](https://leetcode.com/u/prazziii/) | — |
+| 🌦️ | **[Google Summer of Code Contributor](https://summerofcode.withgoogle.com/programs/2026/projects/1GFUKY85)** - [MLLAM](https://github.com/mllam) · Flexible Graph Construction for neural weather models (350h project) | 2026 |
+| 📚 | **Amazon ML Summer School** - Shortlisted (Amazon India) | 2026 |
+| 🦈 | **GitHub Pull Shark & Pair Extraordinaire** - earned through merged PRs and collaborative work | - |
+| 🧩 | **Competitive programming** on [LeetCode](https://leetcode.com/u/prazziii/) | - |
 
 </div>
 
@@ -161,7 +164,7 @@ Layer 4+ 🌟  Graph quality metrics, density-adaptive meshes, spherical coordin
 
 <div align="center">
 
-I contribute to open-source **Machine Learning & Scientific Computing** projects — currently as a
+I contribute to open-source **Machine Learning & Scientific Computing** projects - currently as a
 **Google Summer of Code 2026 contributor** with [MLLAM](https://github.com/mllam), working on
 graph construction for neural weather prediction models used in real forecasting research.
 
@@ -178,20 +181,14 @@ graph construction for neural weather prediction models used in real forecasting
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prajwal-tech07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajwal-tech07&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajwal-tech07&theme=tokyonight" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajwal-tech07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-tech07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prajwal-tech07&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=prajwal-tech07&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
