@@ -83,7 +83,7 @@
 |---|---|---|
 | [**#81**](https://github.com/mllam/weather-model-graphs/pull/81) - Two-step `mesh_layout` architecture separating mesh **coordinate creation** from **connectivity** - the foundation for all alternative mesh topologies | `weather-model-graphs` | ✅ **Merged** |
 | [**#92**](https://github.com/mllam/weather-model-graphs/pull/92) - **Triangular (Delaunay) multi-range meshes** as the first alternative topology, built on the new layout architecture | `weather-model-graphs` | 🔄 In review |
-| [**#123**](https://github.com/mllam/weather-model-graphs/pull/123) - `to_torch_tensors_on_disk`: standardized **on-disk graph serialization** so any WMG graph loads directly into neural-lam | `weather-model-graphs` | 🔄 In review |
+| [**#123**](https://github.com/mllam/weather-model-graphs/pull/123) - `to_torch_tensors_on_disk`: standardized **on-disk graph serialization** so any WMG graph loads directly into neural-lam | `weather-model-graphs` | ✅ **Merged** |
 | [**#596**](https://github.com/mllam/neural-lam/pull/596) - `create_graph_with_wmg` **bridge CLI**, replacing 600+ lines of duplicated graph-construction code in neural-lam with the shared WMG library | `neural-lam` | 🔄 In review |
 | [**#79**](https://github.com/mllam/weather-model-graphs/issues/79) - **Prebuilt / bring-your-own mesh layouts**: design for injecting externally-generated meshes (e.g. from existing NWP model grids) | `weather-model-graphs` | 🧩 Design agreed with maintainers |
 | [**#144**](https://github.com/mllam/weather-model-graphs/issues/144) - **CI benchmark regression detection** for graph-construction performance | `weather-model-graphs` | 🧩 Proposal accepted |
